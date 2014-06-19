@@ -344,7 +344,7 @@
 @mixin generate-grid-helper-classes($class-name,$gutter-width) {
 
     .#{$class-name}-push-left {
-        float: left;
+        float: left !important;
     }
 
     .#{$class-name}-push-center {
@@ -353,7 +353,7 @@
         margin-right: auto;
     }
     .#{$class-name}-push-right {
-        float: right;
+        float: right !important;
     }
     .#{$class-name}-align-left {
         text-align: left;

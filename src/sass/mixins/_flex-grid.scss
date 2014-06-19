@@ -80,7 +80,7 @@
     .#{$class-name}-push-left {
         @include experimental(justify-content, flex-start, -moz, -webkit, not -o, -ms, not -khtml, official);
         @include experimental(flex-pack, start, not -moz, not -webkit, not -o, -ms, not -khtml, not official);
-        float: left;
+        float: left !important;
     }
 
     .push-center,
@@ -96,7 +96,7 @@
     .#{$class-name}-push-right {
         @include experimental(justify-content, flex-end, -moz, -webkit, not -o, -ms, not -khtml, official);
         @include experimental(flex-pack, end, not -moz, not -webkit, not -o, -ms, not -khtml, not official);
-        float: right;
+        float: right !important;
     }
 
 }
