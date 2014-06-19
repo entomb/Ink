@@ -599,7 +599,7 @@ html.no-flexboxlegacy [class~=all-100] {
   }
   html.no-flexbox .huge-push-left,
   html.no-flexboxlegacy .huge-push-left {
-    float: left;
+    float: left !important;
   }
   html.no-flexbox .huge-push-center,
   html.no-flexboxlegacy .huge-push-center {
@@ -609,7 +609,7 @@ html.no-flexboxlegacy [class~=all-100] {
   }
   html.no-flexbox .huge-push-right,
   html.no-flexboxlegacy .huge-push-right {
-    float: right;
+    float: right !important;
   }
   html.no-flexbox .huge-align-left,
   html.no-flexboxlegacy .huge-align-left {
@@ -1472,7 +1472,7 @@ html.no-flexboxlegacy [class~=all-100] {
   }
   html.no-flexbox .xlarge-push-left,
   html.no-flexboxlegacy .xlarge-push-left {
-    float: left;
+    float: left !important;
   }
   html.no-flexbox .xlarge-push-center,
   html.no-flexboxlegacy .xlarge-push-center {
@@ -1482,7 +1482,7 @@ html.no-flexboxlegacy [class~=all-100] {
   }
   html.no-flexbox .xlarge-push-right,
   html.no-flexboxlegacy .xlarge-push-right {
-    float: right;
+    float: right !important;
   }
   html.no-flexbox .xlarge-align-left,
   html.no-flexboxlegacy .xlarge-align-left {
@@ -2345,7 +2345,7 @@ html.no-flexboxlegacy [class~=all-100] {
   }
   html.no-flexbox .large-push-left,
   html.no-flexboxlegacy .large-push-left {
-    float: left;
+    float: left !important;
   }
   html.no-flexbox .large-push-center,
   html.no-flexboxlegacy .large-push-center {
@@ -2355,7 +2355,7 @@ html.no-flexboxlegacy [class~=all-100] {
   }
   html.no-flexbox .large-push-right,
   html.no-flexboxlegacy .large-push-right {
-    float: right;
+    float: right !important;
   }
   html.no-flexbox .large-align-left,
   html.no-flexboxlegacy .large-align-left {
@@ -3218,7 +3218,7 @@ html.no-flexboxlegacy [class~=all-100] {
   }
   html.no-flexbox .medium-push-left,
   html.no-flexboxlegacy .medium-push-left {
-    float: left;
+    float: left !important;
   }
   html.no-flexbox .medium-push-center,
   html.no-flexboxlegacy .medium-push-center {
@@ -3228,7 +3228,7 @@ html.no-flexboxlegacy [class~=all-100] {
   }
   html.no-flexbox .medium-push-right,
   html.no-flexboxlegacy .medium-push-right {
-    float: right;
+    float: right !important;
   }
   html.no-flexbox .medium-align-left,
   html.no-flexboxlegacy .medium-align-left {
@@ -4091,7 +4091,7 @@ html.no-flexboxlegacy [class~=all-100] {
   }
   html.no-flexbox .small-push-left,
   html.no-flexboxlegacy .small-push-left {
-    float: left;
+    float: left !important;
   }
   html.no-flexbox .small-push-center,
   html.no-flexboxlegacy .small-push-center {
@@ -4101,7 +4101,7 @@ html.no-flexboxlegacy [class~=all-100] {
   }
   html.no-flexbox .small-push-right,
   html.no-flexboxlegacy .small-push-right {
-    float: right;
+    float: right !important;
   }
   html.no-flexbox .small-align-left,
   html.no-flexboxlegacy .small-align-left {
@@ -4964,7 +4964,7 @@ html.no-flexboxlegacy [class~=all-100] {
   }
   html.no-flexbox .tiny-push-left,
   html.no-flexboxlegacy .tiny-push-left {
-    float: left;
+    float: left !important;
   }
   html.no-flexbox .tiny-push-center,
   html.no-flexboxlegacy .tiny-push-center {
@@ -4974,7 +4974,7 @@ html.no-flexboxlegacy [class~=all-100] {
   }
   html.no-flexbox .tiny-push-right,
   html.no-flexboxlegacy .tiny-push-right {
-    float: right;
+    float: right !important;
   }
   html.no-flexbox .tiny-align-left,
   html.no-flexboxlegacy .tiny-align-left {

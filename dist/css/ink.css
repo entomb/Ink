@@ -1544,7 +1544,7 @@ th {
   }
 
   .huge-push-left {
-    float: left;
+    float: left !important;
   }
 
   .huge-push-center {
@@ -1554,7 +1554,7 @@ th {
   }
 
   .huge-push-right {
-    float: right;
+    float: right !important;
   }
 
   .huge-align-left {
@@ -2367,7 +2367,7 @@ th {
   }
 
   .xlarge-push-left {
-    float: left;
+    float: left !important;
   }
 
   .xlarge-push-center {
@@ -2377,7 +2377,7 @@ th {
   }
 
   .xlarge-push-right {
-    float: right;
+    float: right !important;
   }
 
   .xlarge-align-left {
@@ -3190,7 +3190,7 @@ th {
   }
 
   .large-push-left {
-    float: left;
+    float: left !important;
   }
 
   .large-push-center {
@@ -3200,7 +3200,7 @@ th {
   }
 
   .large-push-right {
-    float: right;
+    float: right !important;
   }
 
   .large-align-left {
@@ -4013,7 +4013,7 @@ th {
   }
 
   .medium-push-left {
-    float: left;
+    float: left !important;
   }
 
   .medium-push-center {
@@ -4023,7 +4023,7 @@ th {
   }
 
   .medium-push-right {
-    float: right;
+    float: right !important;
   }
 
   .medium-align-left {
@@ -4836,7 +4836,7 @@ th {
   }
 
   .small-push-left {
-    float: left;
+    float: left !important;
   }
 
   .small-push-center {
@@ -4846,7 +4846,7 @@ th {
   }
 
   .small-push-right {
-    float: right;
+    float: right !important;
   }
 
   .small-align-left {
@@ -5659,7 +5659,7 @@ th {
   }
 
   .tiny-push-left {
-    float: left;
+    float: left !important;
   }
 
   .tiny-push-center {
@@ -5669,7 +5669,7 @@ th {
   }
 
   .tiny-push-right {
-    float: right;
+    float: right !important;
   }
 
   .tiny-align-left {

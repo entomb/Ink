@@ -13,7 +13,7 @@ Thumbs.db
 *.zip
 
 # ignore dev folders
-dist/*
+#dist/*
 node_modules
 bower_components
 .sass-cache

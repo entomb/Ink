@@ -350,7 +350,7 @@
 }
 
 .large-push-left {
-  float: left;
+  float: left !important;
 }
 
 .large-push-center {
@@ -360,7 +360,7 @@
 }
 
 .large-push-right {
-  float: right;
+  float: right !important;
 }
 
 .large-align-left {
