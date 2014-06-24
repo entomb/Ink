@@ -44,7 +44,7 @@
      */
 
     window.Ink = {
-        VERSION: '3.0.2',
+        VERSION: '3.0.3',
         _checkPendingRequireModules: function() {
             var I, F, o, dep, mod, cb, pRMs = [];
             for (I = 0, F = pendingRMs.length; I < F; ++I) {
@@ -20555,7 +20555,7 @@ Ink.createModule('Ink.UI.SmoothScroller', '1', ['Ink.UI.Common_1', 'Ink.Dom.Even
          * @static
          */
         init: function(selector) {
-            Event.on(document, 'click', selector, SmoothScroller.onClick);
+            Event.on(document, 'click', selector || 'a.scrollableLink, a.ink-smooth-scroll', SmoothScroller.onClick);
         },
 
         // Deprecated. Kept around just in case someone is still calling this.
